@@ -1,0 +1,3 @@
+[submodule "Serving-Java"]
+	path = Serving-Java
+	url = git://github.com/Hoten/Serving-Java.git

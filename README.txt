@@ -1,0 +1,1 @@
+A simple trading card game for http://forums.novociv.org/
