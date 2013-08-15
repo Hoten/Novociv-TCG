@@ -1,0 +1,5 @@
+For  v2.0:
+*Add constants for message types for data sent to the server
+*Spectating/refereeing games
+*Leaving games
+*Drop out of/into games
